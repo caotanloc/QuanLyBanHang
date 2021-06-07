@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\BUS_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\BUS_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\DAL_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\DAL_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\DAL_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\DTO_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Debug\DTO_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Debug\BUS_LAYER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Debug\BUS_LAYER.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Debug\BUS_LAYER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Debug\BUS_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Debug\BUS_LAYER.csproj.CopyComplete
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Debug\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Debug\BUS_LAYER.pdb

@@ -1,0 +1,66 @@
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CopyComplete
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CopyComplete
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.exe.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csprojAssemblyReference.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.Properties.Resources.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.GenerateResource.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CoreCompileInputs.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CopyComplete
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.dll.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.dll.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.dll.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.dll.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\BUS_LAYER.pdb
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.pdb
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DAL_LAYER.dll.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.pdb
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.dll.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\bin\Release\DTO_LAYER.exe.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csprojAssemblyReference.cache
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.Properties.Resources.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.GenerateResource.cache
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CoreCompileInputs.cache
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.csproj.CopyComplete
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\BUS_LAYER\obj\Release\BUS_LAYER.pdb

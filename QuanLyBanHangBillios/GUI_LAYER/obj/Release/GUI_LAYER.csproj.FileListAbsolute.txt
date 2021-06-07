@@ -1,0 +1,106 @@
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DangNhap.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DoiMatKhau.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Form1.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.HangHoa.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.KhachHang.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.NhanVien.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.ThongKe.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CopyComplete
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DangNhap.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DoiMatKhau.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Form1.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.HangHoa.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.KhachHang.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.NhanVien.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.ThongKe.resources
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CopyComplete
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu - Copy\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.exe.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csprojAssemblyReference.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DangNhap.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DoiMatKhau.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Form1.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.HangHoa.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.KhachHang.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.NhanVien.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Properties.Resources.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.ThongKe.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.GenerateResource.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CoreCompileInputs.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CopyComplete
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.exe
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.dll.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.dll.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.dll.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.exe
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\GUI_LAYER.pdb
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.dll
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.pdb
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\BUS_LAYER.dll.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.pdb
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.dll.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DTO_LAYER.exe.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.pdb
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\bin\Release\DAL_LAYER.dll.config
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csprojAssemblyReference.cache
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DangNhap.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.DoiMatKhau.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Form1.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.HangHoa.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.KhachHang.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.NhanVien.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.Properties.Resources.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.ThongKe.resources
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.GenerateResource.cache
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CoreCompileInputs.cache
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.csproj.CopyComplete
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.exe
+D:\DuAnMau\PS11893_CAOTANLOC_ASM_FINAL_DUANMAU\source\QuanLyBanHangBillios\GUI_LAYER\obj\Release\GUI_LAYER.pdb

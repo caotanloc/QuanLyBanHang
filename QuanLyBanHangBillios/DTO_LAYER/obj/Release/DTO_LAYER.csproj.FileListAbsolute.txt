@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Release\DTO_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Release\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Release\DTO_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.Form1.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Release\DTO_LAYER.dll.config
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Release\DTO_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Release\DTO_LAYER.pdb
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.csprojAssemblyReference.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.Form1.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.Properties.Resources.resources
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.csproj.GenerateResource.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.csproj.CoreCompileInputs.cache
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.dll
+D:\DuAnMau\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Release\DTO_LAYER.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Debug\DTO_LAYER.exe.config
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Debug\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\bin\Debug\DTO_LAYER.pdb
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Debug\DTO_LAYER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Debug\DTO_LAYER.Form1.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Debug\DTO_LAYER.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Debug\DTO_LAYER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Debug\DTO_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Debug\DTO_LAYER.exe
+C:\Users\Admin\Desktop\Dự án mẫu\LAB2\source\QuanLyBanHangBillios\DTO_LAYER\obj\Debug\DTO_LAYER.pdb
